@@ -1,2 +1,2 @@
 # sweetcake610.github.io
-First project for Codecademy Full-Stack Program
+Projects for Codecademy Full-Stack Program
